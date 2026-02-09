@@ -1,5 +1,4 @@
 # 🧠 Predicting Depression from Social Media Posts  
-**CS 577 – Principles and Techniques of Data Science (Fall 2025)**  
 **San Diego State University**
 
 **Authors:**  
