@@ -1,7 +1,7 @@
 # 🧠 Predicting Depression from Social Media Posts  
 **San Diego State University**
 
-**Authors:**  
+**Author:**  
 - Anh Huy Nguyen  
 
 ---
