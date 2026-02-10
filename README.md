@@ -3,7 +3,6 @@
 
 **Authors:**  
 - Anh Huy Nguyen  
-- Thy Nguyen  
 
 ---
 
